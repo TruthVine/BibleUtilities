@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFrameworks>netcoreapp1.1;netstandard1.6;net46</TargetFrameworks>
+    <TargetFrameworks>netstandard2.1</TargetFrameworks>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Authors>Berin Loritsch</Authors>
     <Company>DHaven.org</Company>
